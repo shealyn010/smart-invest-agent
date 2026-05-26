@@ -1,0 +1,88 @@
+{
+  "enterprises": [
+    {
+      "id": "ent_001",
+      "name": "比亚迪股份有限公司",
+      "short_name": "比亚迪",
+      "industry": "新能源汽车",
+      "city": "深圳",
+      "registered_capital": "29.1亿人民币",
+      "employees": "60万+",
+      "revenue_2024": "6023亿人民币",
+      "main_business": "新能源汽车、动力电池、光伏、储能",
+      "investment_history": "2023年投资200亿在深汕合作区建厂；2024年海外匈牙利工厂投产",
+      "key_concerns": ["土地供给", "税收优惠", "产业配套", "物流便利性"],
+      "expansion_plan": "计划在华南地区新增储能电池生产基地"
+    },
+    {
+      "id": "ent_002",
+      "name": "宁德时代新能源科技股份有限公司",
+      "short_name": "宁德时代",
+      "industry": "动力电池",
+      "city": "宁德",
+      "registered_capital": "23.3亿人民币",
+      "employees": "13万+",
+      "revenue_2024": "4009亿人民币",
+      "main_business": "动力电池系统、储能系统、电池回收",
+      "investment_history": "2023年与福特合作在美国建厂；2024年在肇庆投资135亿建华南基地",
+      "key_concerns": ["电力保障", "环保审批", "人才引进", "原材料供应"],
+      "expansion_plan": "有意向在珠三角地区扩建电池回收与梯次利用基地"
+    },
+    {
+      "id": "ent_003",
+      "name": "华为技术有限公司",
+      "short_name": "华为",
+      "industry": "ICT/信息技术",
+      "city": "深圳",
+      "registered_capital": "403亿人民币",
+      "employees": "20.7万",
+      "revenue_2024": "7042亿人民币",
+      "main_business": "通信设备、智能终端、云计算、芯片设计",
+      "investment_history": "2023年东莞松山湖研发中心二期投入使用；2024年上海青浦研发中心启动",
+      "key_concerns": ["人才资源", "科研配套", "知识产权保护", "生活配套"],
+      "expansion_plan": "计划在粤港澳大湾区增设AI算力中心"
+    },
+    {
+      "id": "ent_004",
+      "name": "大疆创新科技有限公司",
+      "short_name": "大疆",
+      "industry": "无人机/智能硬件",
+      "city": "深圳",
+      "registered_capital": "6.5亿人民币",
+      "employees": "1.4万+",
+      "revenue_2024": "约500亿人民币（估算）",
+      "main_business": "民用无人机、航拍设备、行业应用解决方案",
+      "investment_history": "2023年深圳总部扩建；2024年布局低空经济",
+      "key_concerns": ["试飞空域", "技术人才", "供应链配套", "政策支持"],
+      "expansion_plan": "关注低空经济示范区政策，有意布局物流无人机网络"
+    },
+    {
+      "id": "ent_005",
+      "name": "美的集团股份有限公司",
+      "short_name": "美的",
+      "industry": "智能家电/智能制造",
+      "city": "佛山",
+      "registered_capital": "69.8亿人民币",
+      "employees": "16万+",
+      "revenue_2024": "3737亿人民币",
+      "main_business": "智能家居、工业机器人、楼宇科技、新能源汽车部件",
+      "investment_history": "2022年收购库卡后持续扩大机器人产能；2024年顺德智能制造基地投产",
+      "key_concerns": ["工业用地", "供应链集群", "自动化人才", "出口便利性"],
+      "expansion_plan": "有意在华南增设新能源汽车热管理系统生产线"
+    },
+    {
+      "id": "ent_006",
+      "name": "广州汽车集团股份有限公司",
+      "short_name": "广汽集团",
+      "industry": "汽车制造",
+      "city": "广州",
+      "registered_capital": "106亿人民币",
+      "employees": "11万+",
+      "revenue_2024": "1297亿人民币",
+      "main_business": "乘用车、商用车、新能源汽车、零部件",
+      "investment_history": "2023年埃安品牌独立运营；2024年与丰田合作氢燃料电池项目",
+      "key_concerns": ["产业用地", "新能源补贴", "充电基础设施", "零部件配套"],
+      "expansion_plan": "计划在广州周边增设智能网联汽车测试基地"
+    }
+  ]
+}
